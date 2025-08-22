@@ -1,0 +1,60 @@
+
+Portas do restaurante abertas!
+
+    -> Mesa 0 com 2 lugares disponíveis.
+    -> Mesa 1 com 2 lugares disponíveis.
+    -> Mesa 2 com 4 lugares disponíveis.
+    -> Mesa 3 com 4 lugares disponíveis.
+    -> Mesa 4 com 6 lugares disponíveis.
+    -> Mesa 5 com 6 lugares disponíveis.
+    + Grupo de 6 pessoas chegou ao restaurante no segundo 5. Existem 1 grupos na fila.
+* Grupo de 6 pessoas sentado na mesa 4 para 6 pessoas passados 0 segundos na fila. Estão 1 grupos de pessoas no restaurante.
+    + Grupo de 6 pessoas chegou ao restaurante no segundo 9. Existem 1 grupos na fila.
+* Grupo de 6 pessoas sentado na mesa 5 para 6 pessoas passados 0 segundos na fila. Estão 2 grupos de pessoas no restaurante.
+    + Grupo de 3 pessoas chegou ao restaurante no segundo 10. Existem 1 grupos na fila.
+* Grupo de 3 pessoas sentado na mesa 2 para 4 pessoas passados 0 segundos na fila. Estão 3 grupos de pessoas no restaurante.
+    + Grupo de 6 pessoas chegou ao restaurante no segundo 11. Existem 1 grupos na fila.
+    + Grupo de 1 pessoas chegou ao restaurante no segundo 15. Existem 2 grupos na fila.
+* Grupo de 1 pessoas sentado na mesa 0 para 2 pessoas passados 0 segundos na fila. Estão 4 grupos de pessoas no restaurante.
+    + Grupo de 2 pessoas chegou ao restaurante no segundo 18. Existem 2 grupos na fila.
+* Grupo de 2 pessoas sentado na mesa 1 para 2 pessoas passados 0 segundos na fila. Estão 5 grupos de pessoas no restaurante.
+- Grupo saindo da mesa 5. Estão 4 grupos de pessoas no restaurante.
+* Grupo de 6 pessoas sentado na mesa 5 para 6 pessoas passados 10 segundos na fila. Estão 5 grupos de pessoas no restaurante.
+    + Grupo de 1 pessoas chegou ao restaurante no segundo 22. Existem 1 grupos na fila.
+* Grupo de 1 pessoas sentado na mesa 3 para 4 pessoas passados 0 segundos na fila. Estão 6 grupos de pessoas no restaurante.
+    + Grupo de 2 pessoas chegou ao restaurante no segundo 25. Existem 1 grupos na fila.
+- Grupo saindo da mesa 5. Estão 5 grupos de pessoas no restaurante.
+    + Grupo de 2 pessoas chegou ao restaurante no segundo 26. Existem 2 grupos na fila.
+* Grupo de 2 pessoas sentado na mesa 5 para 6 pessoas passados 1 segundos na fila. Estão 6 grupos de pessoas no restaurante.
+    + Grupo de 1 pessoas chegou ao restaurante no segundo 27. Existem 2 grupos na fila.
+- Grupo saindo da mesa 2. Estão 5 grupos de pessoas no restaurante.
+* Grupo de 2 pessoas sentado na mesa 2 para 4 pessoas passados 2 segundos na fila. Estão 6 grupos de pessoas no restaurante.
+    + Grupo de 5 pessoas chegou ao restaurante no segundo 29. Existem 2 grupos na fila.
+- Grupo saindo da mesa 1. Estão 5 grupos de pessoas no restaurante.
+    + Grupo de 6 pessoas chegou ao restaurante no segundo 33. Existem 3 grupos na fila.
+* Grupo de 1 pessoas sentado na mesa 1 para 2 pessoas passados 6 segundos na fila. Estão 6 grupos de pessoas no restaurante.
+- Grupo saindo da mesa 5. Estão 5 grupos de pessoas no restaurante.
+* Grupo de 5 pessoas sentado na mesa 5 para 6 pessoas passados 6 segundos na fila. Estão 6 grupos de pessoas no restaurante.
+    + Grupo de 5 pessoas chegou ao restaurante no segundo 38. Existem 2 grupos na fila.
+- Grupo saindo da mesa 5. Estão 5 grupos de pessoas no restaurante.
+* Grupo de 6 pessoas sentado na mesa 5 para 6 pessoas passados 6 segundos na fila. Estão 6 grupos de pessoas no restaurante.
+- Grupo saindo da mesa 5. Estão 5 grupos de pessoas no restaurante.
+* Grupo de 5 pessoas sentado na mesa 5 para 6 pessoas passados 3 segundos na fila. Estão 6 grupos de pessoas no restaurante.
+    + Grupo de 1 pessoas chegou ao restaurante no segundo 42. Existem 1 grupos na fila.
+    + Grupo de 1 pessoas chegou ao restaurante no segundo 45. Existem 2 grupos na fila.
+- Grupo saindo da mesa 2. Estão 5 grupos de pessoas no restaurante.
+* Grupo de 1 pessoas sentado na mesa 2 para 4 pessoas passados 4 segundos na fila. Estão 6 grupos de pessoas no restaurante.
+- Grupo saindo da mesa 1. Estão 5 grupos de pessoas no restaurante.
+* Grupo de 1 pessoas sentado na mesa 1 para 2 pessoas passados 4 segundos na fila. Estão 6 grupos de pessoas no restaurante.
+    + Grupo de 4 pessoas chegou ao restaurante no segundo 50. Existem 1 grupos na fila.
+    + Grupo de 3 pessoas chegou ao restaurante no segundo 53. Existem 2 grupos na fila.
+- Grupo saindo da mesa 4. Estão 5 grupos de pessoas no restaurante.
+* Grupo de 4 pessoas sentado na mesa 4 para 6 pessoas passados 4 segundos na fila. Estão 6 grupos de pessoas no restaurante.
+    + Grupo de 1 pessoas chegou ao restaurante no segundo 56. Existem 2 grupos na fila.
+- Grupo saindo da mesa 4. Estão 5 grupos de pessoas no restaurante.
+    + Grupo de 1 pessoas chegou ao restaurante no segundo 57. Existem 3 grupos na fila.
+* Grupo de 3 pessoas sentado na mesa 4 para 6 pessoas passados 4 segundos na fila. Estão 6 grupos de pessoas no restaurante.
+- Grupo saindo da mesa 2. Estão 5 grupos de pessoas no restaurante.
+* Grupo de 1 pessoas sentado na mesa 2 para 4 pessoas passados 2 segundos na fila. Estão 6 grupos de pessoas no restaurante.
+    + Grupo de 1 pessoas chegou ao restaurante no segundo 60. Existem 2 grupos na fila.
+- Grupo saindo da mesa 1. Estão 5 grupos de pessoas no restaurante.

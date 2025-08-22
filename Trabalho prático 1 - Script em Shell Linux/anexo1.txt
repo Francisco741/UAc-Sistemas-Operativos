@@ -1,0 +1,8 @@
+Os scripts Shell no ambiente Linux são poderosas ferramentas de
+automação que permitem aos usuários realizar uma variedade de 
+tarefas de forma eficiente e conveniente. Um script Shell é um arquivo 
+de texto que contém uma série de comandos e instruções que são executados 
+sequencialmente quando o script é iniciado. Eles são amplamente utilizados 
+por administradores de sistema, desenvolvedores e entusiastas do Linux 
+para automatizar tarefas repetitivas, simplificar processos e executar 
+tarefas de gerenciamento de sistema. 
